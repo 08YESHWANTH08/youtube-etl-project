@@ -45,7 +45,7 @@ This project is a complete end-to-end **ETL (Extract, Transform, Load) pipeline*
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/youtube-etl-project.git
+git clone https://github.com/08YESHWANTH08/youtube-etl-project.git
 cd youtube-etl-project
 ```
 
@@ -90,8 +90,10 @@ streamlit run dashboard/app.py
 ---
 
 ## 📷 Sample Dashboard Screenshot
-![alt text]("D:\Python_Projects\DATA_ENGINEERING\youtube-etl-project\utube-etl1.png")
-![alt text]("D:\Python_Projects\DATA_ENGINEERING\youtube-etl-project\utube-etl2.png")
+
+![utube-etl1](https://github.com/user-attachments/assets/17ab3b3f-21af-4ddb-90b6-d6ae51873f15)
+
+![utube-etl2](https://github.com/user-attachments/assets/60942e0f-3637-494d-8bee-26eb0939c6ab)
 
 ## 📚 What I Learned
 

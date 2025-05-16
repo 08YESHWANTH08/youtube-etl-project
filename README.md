@@ -115,4 +115,4 @@ This project is open source and free to use under the [MIT License](LICENSE).
 ## 🙋‍♂️ Author
 
 **Yeshwanth**  
-[LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/08YESHWANTH08)
+[LinkedIn](https://www.linkedin.com/in/yeshwanth-arulkumar-696444355/) | [GitHub](https://github.com/08YESHWANTH08)
